@@ -45,7 +45,7 @@
             BlueprintIdentifier = "9AB8145F1ED0B36E00F8F1C7"
             BuildableName = "Backbase Challenge.app"
             BlueprintName = "Backbase Challenge"
-            ReferencedContainer = "container:Backbase Challenge.xcodeproj">
+            ReferencedContainer = "container:BackbaseChallenge.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -68,7 +68,7 @@
             BlueprintIdentifier = "9AB8145F1ED0B36E00F8F1C7"
             BuildableName = "Backbase Challenge.app"
             BlueprintName = "Backbase Challenge"
-            ReferencedContainer = "container:Backbase Challenge.xcodeproj">
+            ReferencedContainer = "container:BackbaseChallenge.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>

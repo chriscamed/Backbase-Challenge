@@ -1,0 +1,110 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/Camilo/Documents/Proyectos_iOS/BackbaseChallenge/BackbaseChallenge/AppDelegate.swift",
+      "line": 12,
+      "symbol": "AppDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Camilo/Documents/Proyectos_iOS/BackbaseChallenge/BackbaseChallenge/AppDelegate.swift",
+      "line": 14,
+      "symbol": "AppDelegate.window",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Camilo/Documents/Proyectos_iOS/BackbaseChallenge/BackbaseChallenge/AppDelegate.swift",
+      "line": 17,
+      "symbol": "AppDelegate.application(_:didFinishLaunchingWithOptions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Camilo/Documents/Proyectos_iOS/BackbaseChallenge/BackbaseChallenge/AppDelegate.swift",
+      "line": 22,
+      "symbol": "AppDelegate.applicationWillResignActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Camilo/Documents/Proyectos_iOS/BackbaseChallenge/BackbaseChallenge/AppDelegate.swift",
+      "line": 27,
+      "symbol": "AppDelegate.applicationDidEnterBackground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Camilo/Documents/Proyectos_iOS/BackbaseChallenge/BackbaseChallenge/AppDelegate.swift",
+      "line": 32,
+      "symbol": "AppDelegate.applicationWillEnterForeground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Camilo/Documents/Proyectos_iOS/BackbaseChallenge/BackbaseChallenge/AppDelegate.swift",
+      "line": 36,
+      "symbol": "AppDelegate.applicationDidBecomeActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Camilo/Documents/Proyectos_iOS/BackbaseChallenge/BackbaseChallenge/AppDelegate.swift",
+      "line": 40,
+      "symbol": "AppDelegate.applicationWillTerminate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Camilo/Documents/Proyectos_iOS/BackbaseChallenge/BackbaseChallenge/controller/PinnedLocationsViewController.swift",
+      "line": 28,
+      "symbol": "PinnedLocationsViewController.prepare(for:sender:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Camilo/Documents/Proyectos_iOS/BackbaseChallenge/BackbaseChallenge/controller/PinnedLocationsViewController.swift",
+      "line": 52,
+      "symbol": "PinnedLocationsViewController.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Camilo/Documents/Proyectos_iOS/BackbaseChallenge/BackbaseChallenge/controller/PinnedLocationsViewController.swift",
+      "line": 56,
+      "symbol": "PinnedLocationsViewController.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Camilo/Documents/Proyectos_iOS/BackbaseChallenge/BackbaseChallenge/controller/PinnedLocationsViewController.swift",
+      "line": 62,
+      "symbol": "PinnedLocationsViewController.numberOfSections(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Camilo/Documents/Proyectos_iOS/BackbaseChallenge/BackbaseChallenge/controller/PinnedLocationsViewController.swift",
+      "line": 66,
+      "symbol": "PinnedLocationsViewController.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Camilo/Documents/Proyectos_iOS/BackbaseChallenge/BackbaseChallenge/controller/PinnedLocationsViewController.swift",
+      "line": 70,
+      "symbol": "PinnedLocationsViewController.tableView(_:canEditRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Camilo/Documents/Proyectos_iOS/BackbaseChallenge/BackbaseChallenge/controller/PinnedLocationsViewController.swift",
+      "line": 75,
+      "symbol": "PinnedLocationsViewController.tableView(_:commit:forRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/Camilo/Documents/Proyectos_iOS/BackbaseChallenge"
+}
