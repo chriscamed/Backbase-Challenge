@@ -8,17 +8,16 @@
 
 /* Begin PBXBuildFile section */
 		9A7B3EA61ED0B976004DF734 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9A7B3EA51ED0B975004DF734 /* MapKit.framework */; };
-		9A7B3EAA1ED0BA9E004DF734 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A7B3EA71ED0BA9E004DF734 /* AppDelegate.swift */; };
-		9A7B3EAB1ED0BA9E004DF734 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A7B3EA81ED0BA9E004DF734 /* Assets.xcassets */; };
-		9A7B3EAC1ED0BA9E004DF734 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9A7B3EA91ED0BA9E004DF734 /* Info.plist */; };
-		9A7B3EB11ED0BAB2004DF734 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A7B3EAD1ED0BAB2004DF734 /* LaunchScreen.storyboard */; };
-		9A7B3EB21ED0BAB2004DF734 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A7B3EAF1ED0BAB2004DF734 /* Main.storyboard */; };
-		9A7B3EB41ED0BABA004DF734 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A7B3EB31ED0BABA004DF734 /* MapViewController.swift */; };
-		9A7B3EB61ED0BAC1004DF734 /* APIConnection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A7B3EB51ED0BAC1004DF734 /* APIConnection.swift */; };
-		9A7B3EBA1ED0DCC6004DF734 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A7B3EB31ED0BABA004DF734 /* MapViewController.swift */; };
-		9A8772D81ED13A360049554E /* BookedLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A8772D71ED13A360049554E /* BookedLocation.swift */; };
-		9A8772DA1ED13A6F0049554E /* BookmarkedLocationTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A8772D91ED13A6F0049554E /* BookmarkedLocationTableViewCell.swift */; };
-		9A8772DC1ED13A7C0049554E /* BookmarkedLocationTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9A8772DB1ED13A7C0049554E /* BookmarkedLocationTableViewCell.xib */; };
+		9A8773291ED1418F0049554E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A8773191ED1418F0049554E /* AppDelegate.swift */; };
+		9A87732A1ED1418F0049554E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A87731A1ED1418F0049554E /* Assets.xcassets */; };
+		9A87732B1ED1418F0049554E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A87731B1ED1418F0049554E /* LaunchScreen.storyboard */; };
+		9A87732C1ED1418F0049554E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A87731D1ED1418F0049554E /* Main.storyboard */; };
+		9A87732D1ED1418F0049554E /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A8773201ED1418F0049554E /* MapViewController.swift */; };
+		9A87732E1ED1418F0049554E /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9A8773211ED1418F0049554E /* Info.plist */; };
+		9A87732F1ED1418F0049554E /* APIConnection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A8773231ED1418F0049554E /* APIConnection.swift */; };
+		9A8773301ED1418F0049554E /* BookedLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A8773241ED1418F0049554E /* BookedLocation.swift */; };
+		9A8773311ED1418F0049554E /* BookmarkedLocationTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A8773271ED1418F0049554E /* BookmarkedLocationTableViewCell.swift */; };
+		9A8773321ED1418F0049554E /* BookmarkedLocationTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9A8773281ED1418F0049554E /* BookmarkedLocationTableViewCell.xib */; };
 		9AB814791ED0B36E00F8F1C7 /* ChallengeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AB814781ED0B36E00F8F1C7 /* ChallengeTests.swift */; };
 /* End PBXBuildFile section */
 
@@ -34,16 +33,16 @@
 
 /* Begin PBXFileReference section */
 		9A7B3EA51ED0B975004DF734 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
-		9A7B3EA71ED0BA9E004DF734 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = "Backbase Challenge/AppDelegate.swift"; sourceTree = SOURCE_ROOT; };
-		9A7B3EA81ED0BA9E004DF734 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "Backbase Challenge/Assets.xcassets"; sourceTree = SOURCE_ROOT; };
-		9A7B3EA91ED0BA9E004DF734 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = "Backbase Challenge/Info.plist"; sourceTree = SOURCE_ROOT; };
-		9A7B3EAE1ED0BAB2004DF734 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = "Backbase Challenge/Base.lproj/LaunchScreen.storyboard"; sourceTree = SOURCE_ROOT; };
-		9A7B3EB01ED0BAB2004DF734 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = "Backbase Challenge/Base.lproj/Main.storyboard"; sourceTree = SOURCE_ROOT; };
-		9A7B3EB31ED0BABA004DF734 /* MapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MapViewController.swift; path = "Backbase Challenge/controller/MapViewController.swift"; sourceTree = SOURCE_ROOT; };
-		9A7B3EB51ED0BAC1004DF734 /* APIConnection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = APIConnection.swift; path = "Backbase Challenge/model/APIConnection.swift"; sourceTree = SOURCE_ROOT; };
-		9A8772D71ED13A360049554E /* BookedLocation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BookedLocation.swift; path = "Backbase Challenge/model/BookedLocation.swift"; sourceTree = SOURCE_ROOT; };
-		9A8772D91ED13A6F0049554E /* BookmarkedLocationTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BookmarkedLocationTableViewCell.swift; sourceTree = "<group>"; };
-		9A8772DB1ED13A7C0049554E /* BookmarkedLocationTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BookmarkedLocationTableViewCell.xib; sourceTree = "<group>"; };
+		9A8773191ED1418F0049554E /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		9A87731A1ED1418F0049554E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		9A87731C1ED1418F0049554E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		9A87731E1ED1418F0049554E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		9A8773201ED1418F0049554E /* MapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+		9A8773211ED1418F0049554E /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9A8773231ED1418F0049554E /* APIConnection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = APIConnection.swift; sourceTree = "<group>"; };
+		9A8773241ED1418F0049554E /* BookedLocation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BookedLocation.swift; sourceTree = "<group>"; };
+		9A8773271ED1418F0049554E /* BookmarkedLocationTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BookmarkedLocationTableViewCell.swift; sourceTree = "<group>"; };
+		9A8773281ED1418F0049554E /* BookmarkedLocationTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BookmarkedLocationTableViewCell.xib; sourceTree = "<group>"; };
 		9AB814601ED0B36E00F8F1C7 /* Backbase Challenge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Backbase Challenge.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9AB814741ED0B36E00F8F1C7 /* Backbase ChallengeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Backbase ChallengeTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9AB814781ED0B36E00F8F1C7 /* ChallengeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChallengeTests.swift; sourceTree = "<group>"; };
@@ -77,20 +76,51 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		9A7B3EBB1ED0E5AE004DF734 /* view */ = {
+		9A8773181ED1418F0049554E /* BackbaseChallenge */ = {
 			isa = PBXGroup;
 			children = (
-				9A8772D21ED13A010049554E /* BookmarkedLocationTableViewCell */,
+				9A8773191ED1418F0049554E /* AppDelegate.swift */,
+				9A87731A1ED1418F0049554E /* Assets.xcassets */,
+				9A87731B1ED1418F0049554E /* LaunchScreen.storyboard */,
+				9A87731D1ED1418F0049554E /* Main.storyboard */,
+				9A87731F1ED1418F0049554E /* controller */,
+				9A8773211ED1418F0049554E /* Info.plist */,
+				9A8773221ED1418F0049554E /* model */,
+				9A8773251ED1418F0049554E /* view */,
 			);
-			name = view;
-			path = "../Backbase Challenge/view";
+			path = BackbaseChallenge;
 			sourceTree = "<group>";
 		};
-		9A8772D21ED13A010049554E /* BookmarkedLocationTableViewCell */ = {
+		9A87731F1ED1418F0049554E /* controller */ = {
 			isa = PBXGroup;
 			children = (
-				9A8772DB1ED13A7C0049554E /* BookmarkedLocationTableViewCell.xib */,
-				9A8772D91ED13A6F0049554E /* BookmarkedLocationTableViewCell.swift */,
+				9A8773201ED1418F0049554E /* MapViewController.swift */,
+			);
+			path = controller;
+			sourceTree = "<group>";
+		};
+		9A8773221ED1418F0049554E /* model */ = {
+			isa = PBXGroup;
+			children = (
+				9A8773231ED1418F0049554E /* APIConnection.swift */,
+				9A8773241ED1418F0049554E /* BookedLocation.swift */,
+			);
+			path = model;
+			sourceTree = "<group>";
+		};
+		9A8773251ED1418F0049554E /* view */ = {
+			isa = PBXGroup;
+			children = (
+				9A8773261ED1418F0049554E /* BookmarkedLocationTableViewCell */,
+			);
+			path = view;
+			sourceTree = "<group>";
+		};
+		9A8773261ED1418F0049554E /* BookmarkedLocationTableViewCell */ = {
+			isa = PBXGroup;
+			children = (
+				9A8773271ED1418F0049554E /* BookmarkedLocationTableViewCell.swift */,
+				9A8773281ED1418F0049554E /* BookmarkedLocationTableViewCell.xib */,
 			);
 			path = BookmarkedLocationTableViewCell;
 			sourceTree = "<group>";
@@ -98,7 +128,7 @@
 		9AB814571ED0B36E00F8F1C7 = {
 			isa = PBXGroup;
 			children = (
-				9AB814621ED0B36E00F8F1C7 /* BackbaseChallenge */,
+				9A8773181ED1418F0049554E /* BackbaseChallenge */,
 				9AB814771ED0B36E00F8F1C7 /* ChallengeTests */,
 				9AB814611ED0B36E00F8F1C7 /* Products */,
 				9A7B3EA41ED0B975004DF734 /* Frameworks */,
@@ -114,18 +144,6 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		9AB814621ED0B36E00F8F1C7 /* BackbaseChallenge */ = {
-			isa = PBXGroup;
-			children = (
-				9AB814851ED0B54100F8F1C7 /* Supporting Files */,
-				9AB814831ED0B52600F8F1C7 /* model */,
-				9A7B3EBB1ED0E5AE004DF734 /* view */,
-				9AB814841ED0B52600F8F1C7 /* controller */,
-			);
-			name = BackbaseChallenge;
-			path = Challenge;
-			sourceTree = "<group>";
-		};
 		9AB814771ED0B36E00F8F1C7 /* ChallengeTests */ = {
 			isa = PBXGroup;
 			children = (
@@ -133,35 +151,6 @@
 				9AB8147A1ED0B36E00F8F1C7 /* Info.plist */,
 			);
 			path = ChallengeTests;
-			sourceTree = "<group>";
-		};
-		9AB814831ED0B52600F8F1C7 /* model */ = {
-			isa = PBXGroup;
-			children = (
-				9A7B3EB51ED0BAC1004DF734 /* APIConnection.swift */,
-				9A8772D71ED13A360049554E /* BookedLocation.swift */,
-			);
-			path = model;
-			sourceTree = "<group>";
-		};
-		9AB814841ED0B52600F8F1C7 /* controller */ = {
-			isa = PBXGroup;
-			children = (
-				9A7B3EB31ED0BABA004DF734 /* MapViewController.swift */,
-			);
-			path = controller;
-			sourceTree = "<group>";
-		};
-		9AB814851ED0B54100F8F1C7 /* Supporting Files */ = {
-			isa = PBXGroup;
-			children = (
-				9A7B3EA71ED0BA9E004DF734 /* AppDelegate.swift */,
-				9A7B3EA81ED0BA9E004DF734 /* Assets.xcassets */,
-				9A7B3EA91ED0BA9E004DF734 /* Info.plist */,
-				9A7B3EAD1ED0BAB2004DF734 /* LaunchScreen.storyboard */,
-				9A7B3EAF1ED0BAB2004DF734 /* Main.storyboard */,
-			);
-			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -247,11 +236,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9A7B3EB11ED0BAB2004DF734 /* LaunchScreen.storyboard in Resources */,
-				9A7B3EAC1ED0BA9E004DF734 /* Info.plist in Resources */,
-				9A7B3EAB1ED0BA9E004DF734 /* Assets.xcassets in Resources */,
-				9A7B3EB21ED0BAB2004DF734 /* Main.storyboard in Resources */,
-				9A8772DC1ED13A7C0049554E /* BookmarkedLocationTableViewCell.xib in Resources */,
+				9A87732E1ED1418F0049554E /* Info.plist in Resources */,
+				9A87732C1ED1418F0049554E /* Main.storyboard in Resources */,
+				9A87732B1ED1418F0049554E /* LaunchScreen.storyboard in Resources */,
+				9A87732A1ED1418F0049554E /* Assets.xcassets in Resources */,
+				9A8773321ED1418F0049554E /* BookmarkedLocationTableViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,11 +258,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9A7B3EAA1ED0BA9E004DF734 /* AppDelegate.swift in Sources */,
-				9A8772D81ED13A360049554E /* BookedLocation.swift in Sources */,
-				9A7B3EB61ED0BAC1004DF734 /* APIConnection.swift in Sources */,
-				9A7B3EB41ED0BABA004DF734 /* MapViewController.swift in Sources */,
-				9A8772DA1ED13A6F0049554E /* BookmarkedLocationTableViewCell.swift in Sources */,
+				9A87732F1ED1418F0049554E /* APIConnection.swift in Sources */,
+				9A8773311ED1418F0049554E /* BookmarkedLocationTableViewCell.swift in Sources */,
+				9A8773291ED1418F0049554E /* AppDelegate.swift in Sources */,
+				9A8773301ED1418F0049554E /* BookedLocation.swift in Sources */,
+				9A87732D1ED1418F0049554E /* MapViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -282,7 +271,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				9AB814791ED0B36E00F8F1C7 /* ChallengeTests.swift in Sources */,
-				9A7B3EBA1ED0DCC6004DF734 /* MapViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -297,18 +285,18 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		9A7B3EAD1ED0BAB2004DF734 /* LaunchScreen.storyboard */ = {
+		9A87731B1ED1418F0049554E /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				9A7B3EAE1ED0BAB2004DF734 /* Base */,
+				9A87731C1ED1418F0049554E /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
-		9A7B3EAF1ED0BAB2004DF734 /* Main.storyboard */ = {
+		9A87731D1ED1418F0049554E /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				9A7B3EB01ED0BAB2004DF734 /* Base */,
+				9A87731E1ED1418F0049554E /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
